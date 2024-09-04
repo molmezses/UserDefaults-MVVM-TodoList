@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+//FINISH PROJECT
+
 @main
 struct TodoListApp: App {
     
